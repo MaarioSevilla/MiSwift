@@ -1,0 +1,3 @@
+D:/TempDocs/CLionProjects/MiSwift/cmake-build-debug/CMakeFiles/MiSwift.dir
+D:/TempDocs/CLionProjects/MiSwift/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TempDocs/CLionProjects/MiSwift/cmake-build-debug/CMakeFiles/rebuild_cache.dir
